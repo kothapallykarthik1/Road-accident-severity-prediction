@@ -1,7 +1,7 @@
+import numpy as np
 from flask import Flask, render_template, request
 import pandas as pd
 import joblib as jb
-import numpy as np
 import urllib.request
 import urllib.parse
 import pickle
